@@ -10,5 +10,6 @@ A low and slow post-exploitation agent! Built as a reflective DLL, written in C+
 * Migrate host process
 * Lateral movement using pass the hash and tokens
 * Easy to use Credentials and Targets model
+* Easy to use graphical file browser
 * Communication using http/s fully encrypted
 * Nice GUI
