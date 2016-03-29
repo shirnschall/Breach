@@ -3,6 +3,7 @@ A low and slow post-exploitation agent! Built as a reflective DLL, written in C+
 
 
 ## Features
+* Compatible with msf, Cobaltstrike etc.
 * Teamserver - Work together with your team on the same target using the same connection.
 * Mimikatz   - Run Mimikatz from memory using reflective DLL
 * PowerShell Empire implementation
